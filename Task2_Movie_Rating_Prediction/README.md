@@ -22,6 +22,3 @@ Predict the IMDb ratings of Indian movies using features like **genre**, **direc
 ## 📁 Files Included
 - `movie_rating_prediction.ipynb`
 - `README.md`
-
-
-#codsoft #datascience #movieprediction #ml #python #internship
